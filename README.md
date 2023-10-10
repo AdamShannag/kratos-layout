@@ -1,4 +1,4 @@
-# Kratos Project Template
+# Kratos Mono Repo Project Template
 
 ## Install Kratos
 ```
